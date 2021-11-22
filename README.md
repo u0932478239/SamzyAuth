@@ -20,23 +20,30 @@
 
 <!-- ABOUT THE PROJECT -->
 <h3 align="center">Requirements</h3>
-<p align="center">
-  ```
+<p align="center" style="text-align:center">
 PHP 8 or Higher
+<br/>
 MCrypt Extension
+<br/>
 MySQL
+<br/>
 (Optional) PHPMyAdmin
-cURL
+<br/>
 Anywhere I type //CHANGE you must change or server will not work
+<br/>
 Anywhere it says auth.samzy.dev, change or it may not work
+<br/>
 (IMPORTANT) Change /auth/includes/settings.php
-```
+<br/>
+</p>
 <br />
-<br />
+<p align="center" style="text-align:center">
 <a align="center" href="#">Blank Database Download</a>
 <br />
 <a align="center" href="https://samzy.dev/download/database.sql">Blank Database Download (Alternative)</a>
-  <br />
+<br />
+</p>
+<br />
 <h3 align="center">Donate</h3>
 <p align="center">
   <a href="https://samzy.dev/donate">Donate Here</a>

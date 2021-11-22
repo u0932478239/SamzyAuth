@@ -38,7 +38,7 @@ Anywhere it says auth.samzy.dev, change or it may not work
 </p>
 <br />
 <p align="center" style="text-align:center">
-<a align="center" href="#">Blank Database Download</a>
+<a align="center" href="https://raw.githubusercontent.com/YungSamzy/SamzyAuth/master/database.sql">Blank Database Download</a>
 <br />
 <a align="center" href="https://samzy.dev/download/database.sql">Blank Database Download (Alternative)</a>
 <br />

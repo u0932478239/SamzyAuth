@@ -1,0 +1,1 @@
+<?php header('Location: https://auth.samzy.dev'); ?>

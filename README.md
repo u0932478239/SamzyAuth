@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/YungSamzy/SamzyAuth">
-    <img src="https://auth.samzy.dev/auth/assets/img/logo_long.png" alt="Logo" width="400">
+    <img src="https://raw.githubusercontent.com/YungSamzy/SamzyAuth/main/auth/assets/img/logo_long.png" alt="Logo" width="400">
   </a>
 
   <p align="center">
